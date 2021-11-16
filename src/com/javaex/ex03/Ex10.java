@@ -29,6 +29,7 @@ public class Ex10 {
 			case 4: System.out.println("R404호");
 				break;
 			default: System.out.println("상담원에게 문의하세요");
+				break;
 		}
 		
 		sc.close();
